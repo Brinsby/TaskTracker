@@ -1,7 +1,6 @@
 # task-tracker
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a small task tracking ember application I am making to solidify my ember fundamentals. 
 
 ## Prerequisites
 
@@ -14,13 +13,13 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone https://github.com/Brinsby/TaskTracker.git`
 * `cd task-tracker`
 * `npm install`
 
 ## Running / Development
 
-* `ember serve`
+* `ember serve` or `ember s`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
 ### Code Generators
